@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-google-spreadsheets',
       options: {
-        spreadsheetId: '1DWwl8HV1_fwExoanyuFFaotNHpDpsyhPh3HJLHrXww8',
+        spreadsheetId: '',
         worksheetTitle: 'Vendedores',
         credentials: require('./google-credentials.json')
       }
